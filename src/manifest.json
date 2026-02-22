@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "MarkSnip - Markdown Web Clipper",
+  "name": "bMarkSnip",
   "version": "4.0.1",
-  "author": "Dhruv Parikh",
+  "author": "Bryon (though mainly Dhruv Parikh)",
   "description": "A web clipper to download articles in markdown format. Turndown & Readability are used as core libraries.",
   "icons": {
     "16": "icons/favicon-16x16.png",
